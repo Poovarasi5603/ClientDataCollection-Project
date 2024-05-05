@@ -3,7 +3,7 @@
 **Getting Started**
 --------------------------
 
-Gathering the client information, write it to the structured text file using C++ programming language.
+Gathering the client information, written it to the structured text file using C++ programming language.
 
 By using file system 'ofstream' to open a text file in write mode.
 
@@ -17,9 +17,7 @@ View the consolidated client information that stored in text file using Quincy 2
 
 To read a text file and display its contents through PHP using XAMPP Web Server.
 
-Move the text file into the "htdocs" directory of your XAMPP installation. This directory is typically located at C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS.
-
-Create a new PHP file in the "htdocs" directory 'client.php' that contains php code to read the text file's contents.
+Create a new PHP file  'client.php' that contains php code to read the text file's contents in the "htdocs" directory of your XAMPP installation. This directory is typically located at C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS.
 
 Open your web browser and navigate to http://localhost/php_program/client.php . This will execute the PHP script, read the contents of the text file, and display them on the web page.
 
